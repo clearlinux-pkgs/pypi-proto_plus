@@ -5,7 +5,7 @@
 #
 Name     : pypi-proto_plus
 Version  : 1.22.3
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/41/bd/4022c9a6de35821f215fdefc8b4e68bf9a054d04f43246f0c89ba8a7538e/proto-plus-1.22.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/41/bd/4022c9a6de35821f215fdefc8b4e68bf9a054d04f43246f0c89ba8a7538e/proto-plus-1.22.3.tar.gz
 Summary  : Beautiful, Pythonic protocol buffers.
